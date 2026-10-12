@@ -1,0 +1,7 @@
+cd proje-klasoru
+git init
+git add .
+git commit -m "İlk yükleme"
+git branch -M main
+git remote add origin GITHUB_REPOSITORY_ADRESI
+git push -u origin main
